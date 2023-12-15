@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 3%;
+}
+
+
+#a, #b {
+    padding:150px;
+    border: 2px solid red;
+    outline: 20px solid red;
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+    outline-style:ridge;
+    /* background-color: yellow; */
+    margin-bottom: 41px;
+    background-image: url(https://lh3.googleusercontent.com/pw/ADCreHcA_JmXNlriy9-5TpYwpLU_reMT7SkWLxZwD90fdnTDeXFlBz9cQdHbLG7y39ygbPBFVS6uXN6Piziqs-tIZIcr_jmC09eNat4V4qbQMlYICsFivVC-vVZe17FVBlVzPJLWd8nDZ_qnyLhdu5BRZenB=w771-h347-s-no-gm?authuser=0);
+    width: 100px;
+    height: 40px;
+}
+
